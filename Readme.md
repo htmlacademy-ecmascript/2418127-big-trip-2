@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Дарья Емельянова](https://up.htmlacademy.ru/ecmascript-individual/2/user/2418127).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
